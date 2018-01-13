@@ -1,6 +1,6 @@
 # Installation
 
-# Installing the Java Development Kit (JDK)
+## Installing the Java Development Kit (JDK)
 
 In order to program Java applications, it is necessary to install the Java Development Kit (JDK), which is a program development environment.
 
